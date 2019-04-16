@@ -11,3 +11,5 @@ ddd
 eee
 
 branch
+
+conflict and
